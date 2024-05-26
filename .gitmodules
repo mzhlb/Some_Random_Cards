@@ -1,0 +1,6 @@
+[submodule "SRC_BACKEND"]
+	path = SRC_BACKEND
+	url = https://github.com/mzhlb/SRC_Backend.git
+[submodule "SRC_WEB_FRONTEND"]
+	path = SRC_WEB_FRONTEND
+	url = https://github.com/mzhlb/SRC_Web_Frontend.git
